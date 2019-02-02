@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Use the following example to get started:
+
+function void Welcome(string userName)
+{
+  msgbox("Welcome" + userName + "!");
+}
