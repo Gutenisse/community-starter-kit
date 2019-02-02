@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* This is an description of the project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* It welcomes new users to start contribute on open source projects.
 
 ## Getting started
 
